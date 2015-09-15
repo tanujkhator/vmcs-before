@@ -2,7 +2,7 @@
 #Tue Aug 28 15:25:19 SGT 2012
 Name5=$1
 Name4=50C
-Name3=20C
+Name3=30C
 Name2=10C
 Name1=5C
 Value5=100
